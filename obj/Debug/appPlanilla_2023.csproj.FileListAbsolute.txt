@@ -1,0 +1,15 @@
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\bin\Debug\appPlanilla_2023.exe.config
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\bin\Debug\appPlanilla_2023.exe
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\bin\Debug\appPlanilla_2023.pdb
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.csproj.AssemblyReference.cache
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.Properties.Resources.resources
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.csproj.GenerateResource.cache
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.csproj.CoreCompileInputs.cache
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.exe
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.pdb
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.ui.frmLogin.resources
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.ui.frmPlanillas.resources
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.ui.frmCentroCosto.resources
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.ui.frmSedes.resources
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.ui.frmCargo.resources
+C:\Users\51946\source\repos\appPlanilla_2023\appPlanilla_2023\obj\Debug\appPlanilla_2023.ui.frmDepartamento.resources
